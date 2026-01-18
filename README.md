@@ -63,4 +63,5 @@ Provided IT support across operating systems, networks, and Microsoft Office, im
 
 Connect With Me
 LinkedIn: https://www.linkedin.com/in/chandler-anderson-b65a1b309/
+
 Portfolio: Coming soon
