@@ -30,12 +30,12 @@ Tools & Platforms:
 Git, GitHub, Azure DevOps
 
 Core Concepts: 
-Agile / Scrum workflows
-Object-Oriented Programming
-Design Patterns
-Data Structures and Algorithms
-Systems and application design
-Machine Learning and AI fundamentals
+Agile / Scrum workflows,
+Object-Oriented Programming,
+Design Patterns,
+Data Structures and Algorithms,
+Systems and application design,
+Machine Learning and AI fundamentals,
 
 **Professional Experience**
 
