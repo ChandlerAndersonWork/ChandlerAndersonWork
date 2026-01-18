@@ -11,25 +11,25 @@ B.S. in Computer Science, Summa Cum Laude
 GPA: 3.92
 Dean’s List every semester
 
-**Technical Skills
-**
-Languages
+**Technical Skills**
+
+Languages: 
 Python, Java, C++, C#, JavaScript, TypeScript
 
-Web & Application Development
+Web & Application Development: 
 React, Angular, Node.js, Express, Spring Boot, Django, HTML, CSS
 
-Databases
+Databases: 
 SQL, MySQL, NoSQL, MongoDB
 
-Data & Analytics
+Data & Analytics: 
 Data pipelines and automation, Data cleaning and reporting, Dashboard creation
 Business Intelligence workflows, Advanced Excel usage
 
-Tools & Platforms
+Tools & Platforms: 
 Git, GitHub, Azure DevOps
 
-Core Concepts
+Core Concepts: 
 Agile / Scrum workflows
 Object-Oriented Programming
 Design Patterns
@@ -37,11 +37,10 @@ Data Structures and Algorithms
 Systems and application design
 Machine Learning and AI fundamentals
 
-**Professional Experience
-**
+**Professional Experience**
+
 Tacilent.ai — Software Engineer Intern
 Feb 2025 – Present
-
 Built and maintained a full-stack web application using Angular, Node.js, and MongoDB.
 Contributed to project proposals by aligning technical solutions with business requirements.
 Improved Agile workflows by refining user stories, acceptance criteria, and sprint planning.
