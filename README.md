@@ -4,12 +4,12 @@ I’m a Software Engineer and Computer Science graduate with hands-on experience
 
 I enjoy building scalable, maintainable systems and using data to improve operational efficiency.
 
-Education
+**Education**
 
-University of Georgia
-B.S. in Computer Science, Summa Cum Laude
-GPA: 3.92
-Dean’s List every semester
+University of Georgia <br />
+B.S. in Computer Science, Summa Cum Laude <br />
+GPA: 3.92 <br />
+Dean’s List every semester <br />
 
 **Technical Skills**
 
