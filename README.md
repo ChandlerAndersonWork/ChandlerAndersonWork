@@ -41,7 +41,7 @@ Machine Learning and AI fundamentals,
 
 Tacilent.ai — Software Engineer Intern
 Feb 2025 – Present
-Built and maintained a full-stack web application using Angular, Node.js, and MongoDB.
+Built and maintained a full-stack web application using Angular, Node.js, and MongoDB. /n
 Contributed to project proposals by aligning technical solutions with business requirements.
 Improved Agile workflows by refining user stories, acceptance criteria, and sprint planning.
 Documented tasks and tracked progress to support team accountability and delivery.
