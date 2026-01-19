@@ -39,28 +39,27 @@ Machine Learning and AI fundamentals,
 
 **Professional Experience**
 
-Tacilent.ai — Software Engineer Intern
-Feb 2025 – Present
+Tacilent.ai — Software Engineer Intern <br />
+Feb 2025 – Present <br />
 Built and maintained a full-stack web application using Angular, Node.js, and MongoDB. <br />
-Contributed to project proposals by aligning technical solutions with business requirements.
-Improved Agile workflows by refining user stories, acceptance criteria, and sprint planning.
-Documented tasks and tracked progress to support team accountability and delivery.
+Contributed to project proposals by aligning technical solutions with business requirements. <br />
+Improved Agile workflows by refining user stories, acceptance criteria, and sprint planning. <br />
+Documented tasks and tracked progress to support team accountability and delivery. <br />
 
-Southern Mechanical HVAC Contractors — Data Engineer
-May 2024 – Feb 2025
-Built automated data pipelines and dashboards, reducing reporting time by 40%.
-Integrated service management, inventory, and financial data to deliver unified business insights.
-Designed SQL-based reporting tools to support operational decision-making.
-Improved data quality and security while collaborating directly with leadership.
-Leveraged AI-based tools to reduce communication overhead, increasing customer billing ticket generation efficiency by 500%.
+Southern Mechanical HVAC Contractors — Data Engineer <br />
+May 2024 – Feb 2025 <br />
+Built automated data pipelines and dashboards, reducing reporting time by 40%. <br />
+Integrated service management, inventory, and financial data to deliver unified business insights. <br />
+Designed SQL-based reporting tools to support operational decision-making. <br />
+Improved data quality and security while collaborating directly with leadership. <br />
+Leveraged AI-based tools to reduce communication overhead, increasing customer billing ticket generation efficiency by 500%. <br />
 
-Southern Mechanical HVAC Contractors — Tech Support & App Development Intern
-May 2023 – Aug 2023
-Researched providers and launched the company’s first business website.
-Converted paper-based workflows into databases, improving productivity by 25%.
-Provided IT support across operating systems, networks, and Microsoft Office, improving efficiency by 30%.
+Southern Mechanical HVAC Contractors — Tech Support & App Development Intern <br />
+May 2023 – Aug 2023 <br />
+Researched providers and launched the company’s first business website. <br />
+Converted paper-based workflows into databases, improving productivity by 25%. <br />
+Provided IT support across operating systems, networks, and Microsoft Office, improving efficiency by 30%. <br />
 
-Connect With Me
-LinkedIn: https://www.linkedin.com/in/chandler-anderson-b65a1b309/
-
+Connect With Me <br />
+LinkedIn: https://www.linkedin.com/in/chandler-anderson-b65a1b309/ <br />
 Portfolio: Coming soon
