@@ -60,6 +60,6 @@ Researched providers and launched the company’s first business website. <br />
 Converted paper-based workflows into databases, improving productivity by 25%. <br />
 Provided IT support across operating systems, networks, and Microsoft Office, improving efficiency by 30%. <br />
 
-Connect With Me <br />
+**Connect With Me** <br />
 LinkedIn: https://www.linkedin.com/in/chandler-anderson-b65a1b309/ <br />
 Portfolio: Coming soon
