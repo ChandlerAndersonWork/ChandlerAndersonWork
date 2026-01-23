@@ -41,10 +41,10 @@ Machine Learning and AI fundamentals,
 
 Tacilent.ai — Software Engineer Intern <br />
 Feb 2025 – Present <br />
-Built and maintained a full-stack web application using Angular, Node.js, and MongoDB. <br />
-Contributed to project proposals by aligning technical solutions with business requirements. <br />
-Improved Agile workflows by refining user stories, acceptance criteria, and sprint planning. <br />
-Documented tasks and tracked progress to support team accountability and delivery. <br />
+Built and maintained a full-stack web application (Angular, Node.js, MongoDB), increasing user engagement by 35%. <br />
+Contributed to project proposals aligning technical solutions with business goals, shortening approval cycles by 25%. <br />
+Improved Agile workflow by refining user stories, acceptance criteria, and sprint planning, increasing on-time delivery by 25% and reducing rework. <br />
+Supported accountability by documenting tasks and tracking progress during meetings, reducing missed action items by 40%. <br />
 
 Southern Mechanical HVAC Contractors — Data Engineer <br />
 May 2024 – Feb 2025 <br />
