@@ -62,4 +62,4 @@ Provided IT support across operating systems, networks, and Microsoft Office, im
 
 **Connect With Me** <br />
 LinkedIn: https://www.linkedin.com/in/chandler-anderson-b65a1b309/ <br />
-Portfolio: Coming soon
+Portfolio: job-tracker repo, a full CRUD website to track applications that's currently in ongoing development
